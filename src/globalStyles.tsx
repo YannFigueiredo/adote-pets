@@ -21,6 +21,12 @@ const GlobalStyles = createGlobalStyle `
     body{
         background-color: gray;
     }
+
+    ul li{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        list-style-type: none;
+    }
 `;
 
 export default GlobalStyles;
