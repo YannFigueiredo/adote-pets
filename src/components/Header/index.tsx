@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import logo from '../../assets/logo.png';
-import { Container, LogoArea, NavArea, Menu, SubMenu } from './style';
+import { Container, LogoArea, NavArea, Menu, SubMenu } from './styles';
 import { GiHamburgerMenu } from 'react-icons/gi';
 import { IoIosArrowDown } from 'react-icons/io';
 import { useState } from 'react';
