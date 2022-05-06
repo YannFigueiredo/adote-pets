@@ -10,13 +10,26 @@ const GlobalStyles = createGlobalStyle `
     body{
         font-family: 'Open Sans', sans-serif;
         font-weight: 400;
-        padding: 0 15px;
     }
 
     h1{
         font-family: 'Roboto Slab', sans-serif;
         font-weight: 700;
         font-size: 30px;
+    }
+
+    h2{
+        font-family: 'Roboto Slab', sans-serif;
+        font-weight: 400;
+        font-size: 20px;
+        color: #534d51;
+    }
+
+    h3{
+        font-family: 'Roboto Slab', sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        color: #534d51;
     }
 
     body{
