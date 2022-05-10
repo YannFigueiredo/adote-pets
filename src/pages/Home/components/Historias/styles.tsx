@@ -18,7 +18,7 @@ export const Cards = styled.div `
     margin-top: 20px;
 
     article div img{
-        max-width: 100%;
+        width: 100%;
     }
 
     article h3, article p{
